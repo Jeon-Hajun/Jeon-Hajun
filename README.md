@@ -1,7 +1,5 @@
 ## abstract
-I am a computer engineering student at a university in Korea.
-
-I am studying the field of ai.
+I major in computer engineering at a university in Korea and study ai.
 
 ## project
 blink...
